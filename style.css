@@ -188,7 +188,7 @@ header {
 }
 .carousel-item-visible {
     display: block;
-    animation: smoothSlideTrans 1000ms ease-in-out;
+    animation: smoothSlideTrans 800ms ease-in;
 }
 
 
