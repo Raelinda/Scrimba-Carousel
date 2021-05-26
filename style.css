@@ -224,7 +224,7 @@ header {
 
 /* footer */
 footer {
-    margin: .25rem 0 1rem;
+    margin-top: .5rem;
 }
 
 /* media queries */
@@ -234,5 +234,8 @@ footer {
         display: flex;
         flex-direction: column;
         justify-content: center;
+    }
+    header {
+        padding: 0 0 1rem;
     }
 }
