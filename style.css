@@ -175,14 +175,14 @@ layout
 ======== */
 /* header */
 header {
-    padding: 2rem 0;
+    padding: 1rem 0;
 }
 
 .carousel {
     width: min(75%, 800px);
     margin: 0 auto;
     position: relative;
-    margin-bottom: 2rem;;
+    
 }
 
 .carousel-item, 
@@ -223,7 +223,7 @@ header {
 
 /* footer */
 footer {
-    margin-bottom: 2rem;
+    margin: .25rem 0 1rem;
 }
 
 /* media queries */
