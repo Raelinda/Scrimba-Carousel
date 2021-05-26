@@ -137,13 +137,22 @@ img {
     border: 3px solid #2596be;
 }
 
-/* typography */
+/* =======
+typography 
+========== */
 h1 {
     font-size: 2.5rem;
 }
 
 h2 {
     font-style: italic;
+}
+a {
+    color: #2596be;
+}
+a:hover,
+a:focus {
+    opacity: 65%;
 }
 button {
     background: #eee9de;
@@ -160,7 +169,10 @@ button:hover {
     background: #fffaef;
 }
 
-/* layout */
+/* =====
+layout
+======== */
+/* header */
 header {
     padding: 2rem 0;
 }
@@ -206,4 +218,19 @@ header {
 }
 #next-btn {
     margin-right: .35em;
+}
+
+/* footer */
+footer {
+    margin-bottom: 2rem;
+}
+
+/* media queries */
+
+@media (max-width: 43.75em) {
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 }
