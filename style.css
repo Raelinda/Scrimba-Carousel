@@ -133,7 +133,8 @@ body {
 }
 
 img {
-    /* border-radius: 5px; */
+    border-radius: 5px;
+    border: 3px solid #2596be;
 }
 
 /* typography */
@@ -173,8 +174,8 @@ header {
 
 .carousel-item, 
 .carousel-item-hidden {
-    border: 3px solid #2596be;
-    border-radius: 5px;
+    /* border: 3px solid #2596be; */
+    /* border-radius: 5px; */
     display: none;
 }
 
