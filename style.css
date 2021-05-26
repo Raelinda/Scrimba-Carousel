@@ -147,14 +147,15 @@ h1 {
 h2 {
     font-style: italic;
 }
-a {
+a, a:visited {
     color: #2596be;
 }
+
 a:hover,
 a:focus {
     opacity: 65%;
 }
-button {
+button, button:visited {
     background: #eee9de;
     border: 2px solid #2596be;
     font-size: 2rem;
