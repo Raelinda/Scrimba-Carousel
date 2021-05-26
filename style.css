@@ -135,6 +135,7 @@ body {
 img {
     border-radius: 5px;
     border: 3px solid #2596be;
+    width: min(700px, 100%);
 }
 
 /* =======
@@ -179,7 +180,7 @@ header {
 }
 
 .carousel {
-    width: min(75%, 800px);
+    width: min(75%, 700px);
     margin: 0 auto;
     position: relative;
     
