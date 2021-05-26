@@ -1,0 +1,27 @@
+/* amaranth-regular - latin */
+@font-face {
+  font-family: 'Amaranth';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/amaranth-v11-latin-regular.woff') format('woff')
+}
+/* amaranth-italic - latin */
+@font-face {
+  font-family: 'Amaranth';
+  font-style: italic;
+  font-weight: 400;
+  src:  url('../fonts/amaranth-v11-latin-italic.woff') format('woff')
+}
+/* amaranth-700 - latin */
+@font-face {
+  font-family: 'Amaranth';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/amaranth-v11-latin-700.woff') format('woff')
+}
+/* amaranth-700italic - latin */
+@font-face {
+  font-family: 'Amaranth';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../fonts/amaranth-v11-latin-700italic.woff') format('woff')}
