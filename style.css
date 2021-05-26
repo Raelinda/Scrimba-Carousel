@@ -212,8 +212,10 @@ header {
     justify-content: space-between;
     position: absolute;
     top: 50%;
+    left: 2px;
     transform: translateY(-50%);
     width: 100%;
+    /* border: 1px solid; */
 }
 #prev-btn {
     margin-left: .35em;
