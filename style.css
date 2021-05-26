@@ -238,4 +238,7 @@ footer {
     header {
         padding: 0 0 1rem;
     }
+    button, button:visited, button:hover {
+        font-size: 1rem;
+    }
 }
