@@ -96,7 +96,7 @@ fonts
     font-family: 'Amaranth';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/amaranth-v11-latin-regular.woff') format('woff')
+    src: url('fonts/amaranth-v11-latin-regular.woff') format('woff')
 }
 
 /* amaranth-italic - latin */
@@ -104,7 +104,7 @@ fonts
     font-family: 'Amaranth';
     font-style: italic;
     font-weight: 400;
-    src: url('../fonts/amaranth-v11-latin-italic.woff') format('woff')
+    src: url('fonts/amaranth-v11-latin-italic.woff') format('woff')
 }
 
 /* amaranth-700 - latin */
@@ -112,7 +112,7 @@ fonts
     font-family: 'Amaranth';
     font-style: normal;
     font-weight: 700;
-    src: url('../fonts/amaranth-v11-latin-700.woff') format('woff')
+    src: url('fonts/amaranth-v11-latin-700.woff') format('woff')
 }
 
 /* amaranth-700italic - latin */
@@ -120,7 +120,7 @@ fonts
     font-family: 'Amaranth';
     font-style: italic;
     font-weight: 700;
-    src: url('../fonts/amaranth-v11-latin-700italic.woff') format('woff')
+    src: url('fonts/amaranth-v11-latin-700italic.woff') format('woff')
 }
 
 /* Body basics */
