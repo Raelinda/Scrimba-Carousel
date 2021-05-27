@@ -226,7 +226,7 @@ header {
 
 /* footer */
 footer {
-    margin-top: .5rem;
+    margin: .5rem 0 1rem;
 }
 
 /* media queries */
@@ -243,4 +243,8 @@ footer {
     button, button:visited, button:hover {
         font-size: 1rem;
     }
+    footer {
+        margin: .5rem 0 0;
+    }
+    
 }
